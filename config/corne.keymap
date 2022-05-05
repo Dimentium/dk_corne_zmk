@@ -30,7 +30,7 @@
 // | SHFT |     |     |     |     |     |   |     |     |     |     |     |      |
 //                    | GUI |     | SPC |   | ENT |     | ALT |
                         bindings = <
- &kp C_MUTE  &kp C_BRI_DN   &kp C_BRI_UP          &kp          &kp     &kp           &kp N6     &kp C_RW  &kp C_PAUSE      &kp C_FF  &kp C_VOL_DN  &kp C_VOL_UP
+ &kp C_MUTE  &kp C_BRI_DN   &kp C_BRI_UP        &none        &none   &none           &kp N6     &kp C_RW  &kp C_PAUSE      &kp C_FF  &kp C_VOL_DN  &kp C_VOL_UP
   &kp EQUAL  &mt LCTRL N1  &mt LSHIFT N2  &mt LGUI N3  &mt LALT N4  &kp N5           &kp N6  &mt RALT N7  &mt RGUI N8  &mt RSHFT N9  &mt RCTRL N0     &kp MINUS
     &kp F12        &kp F1         &kp F2       &kp F3       &kp F4  &kp F5           &kp F6       &kp F7       &kp F8        &kp F9       &kp F10       &kp F11
                                                &trans       &trans  &trans          &kp RET       &trans       &trans
