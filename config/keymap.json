@@ -20,7 +20,7 @@
                                                            "&trans",      "&trans", "&trans",           "&kp RET",    "&kp RALT",  "&kp RIGHT_SHIFT"
     ], [
        "&trans",    "&trans",         "&trans",   "&trans",   "&trans",    "&trans",           "&kp PG_UP",        "&kp HOME",        "&kp END",         "&kp INS",       "&kp DEL",   "&none",
-       "&trans", "&kp LCTRL", "&kp LEFT_SHIFT", "&kp LGUI", "&kp LALT",    "&trans",            "&kp LEFT",        "&kp DOWN",         "&kp UP",       "&kp RIGHT", "&kp BACKSPACE", "&kp TAB",
+       "&trans", "&kp LCTRL", "&kp LEFT_SHIFT", "&kp LGUI", "&kp LALT", "&kp K_APP",            "&kp LEFT",        "&kp DOWN",         "&kp UP",       "&kp RIGHT", "&kp BACKSPACE", "&kp TAB",
        "&trans",    "&trans",         "&trans",   "&trans",   "&trans",    "&trans",           "&kp PG_DN", "&kp PRINTSCREEN", "&kp SCROLLLOCK", "&kp PAUSE_BREAK",      "&kp PIPE",   "&none",
                                                   "&trans",   "&trans", "&kp ENTER",              "&trans",          "&trans",         "&trans"
     ]
