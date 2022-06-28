@@ -38,9 +38,9 @@
 
         layer_nav_layer {
             bindings = <
- &kp CAPSLOCK  &kp C_BRI_DN      &kp C_MUTE  &kp C_VOL_DN  &kp C_VOL_UP  &kp C_BRI_UP          &kp PG_UP         &kp HOME         &kp END          &kp INS        &kp DEL  &kp LA(LC(TAB))
-   &caps_word     &kp LCTRL  &kp LEFT_SHIFT      &kp LGUI      &kp LALT     &kp K_APP           &kp LEFT         &kp DOWN          &kp UP        &kp RIGHT  &kp BACKSPACE        &kp ENTER
-        &none         &none        &kp C_RW      &kp C_PP      &kp C_FF         &none          &kp PG_DN  &kp PRINTSCREEN  &kp SCROLLLOCK  &kp PAUSE_BREAK        &kp TAB    &kp LS(ENTER)
+ &kp CAPSLOCK  &kp C_BRI_DN      &kp C_MUTE  &kp C_VOL_DN  &kp C_VOL_UP  &kp C_BRI_UP          &kp PG_UP         &kp HOME         &kp END          &kp INS        &kp DEL  &kp LC(ENTER)
+   &caps_word     &kp LCTRL  &kp LEFT_SHIFT      &kp LGUI      &kp LALT     &kp K_APP           &kp LEFT         &kp DOWN          &kp UP        &kp RIGHT  &kp BACKSPACE      &kp ENTER
+        &none         &none        &kp C_RW      &kp C_PP      &kp C_FF         &none          &kp PG_DN  &kp PRINTSCREEN  &kp SCROLLLOCK  &kp PAUSE_BREAK        &kp TAB  &kp LS(ENTER)
                                                     &none         &mo 3       &kp TAB              &none            &none           &none
             >;
         };
